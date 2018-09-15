@@ -7,11 +7,44 @@ h1 {
     text-align: center;
 }
 
-h2{
+h2 {
     font-family: Georgia;
 }
 
-p{
+p {
     font-family: Georgia;
-    font-weight: 20px;
+}
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation il {
+    padding: 20px;
+}
+
+#games {
+    font-weight: 700;
+    margin: 30px;
+}
+
+#golf {
+    font-weight: 700;
+    margin: 30px;
+}
+
+#about {
+    font-weight: 700;
+    margin: 30px;
+}
+
+#fixingthings {
+    font-weight: 700;
+    margin: 30px;
+}
+
+#closing {
+    font-weight: 700;
+    margin: 30px;
 }
